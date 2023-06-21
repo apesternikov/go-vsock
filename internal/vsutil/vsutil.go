@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/balena/go-vsock"
+	"github.com/mdlayher/vsock"
 )
 
 // IsHypervisor detects if this machine is a hypervisor by determining if

@@ -1,4 +1,4 @@
-module github.com/balena/go-vsock
+module github.com/mdlayher/vsock
 
 go 1.18
 
